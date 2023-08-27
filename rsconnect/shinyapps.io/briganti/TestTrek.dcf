@@ -1,0 +1,12 @@
+name: TestTrek
+title: TestTrek
+username: briganti
+account: briganti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9689385
+bundleId: 7612837
+url: https://briganti.shinyapps.io/TestTrek/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
